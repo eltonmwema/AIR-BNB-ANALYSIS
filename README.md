@@ -12,22 +12,10 @@ This dataset includes variables such as location, monthly rent, and the number o
 > <font color = "#15616D">Buy land, they're not making it anymore." - Mark Twain</font>
 
 <img src = "https://www.worldbank.org/content/dam/photos/780x439/2017/apr-1/ke-kenya-needs-2-million-more-low-income-homes-building-them-would-boost-its-economic-growth-homepage-780x439.jpg">
-# <font color = "FF7DOO"> Data cleaning </font>
 
-<style>
-  /* Define custom styles for text and subheadings */
-  .text-color {
-    color: #FFECD1;
-  }
+# Data cleaning 
 
-  .subheading-color {
-    color: #BC5308;
-  }
-
-  }
-</style>
-
-## <span class="subheading-color">Objectives of Data Cleaning</span>
+## Objectives of Data Cleaning
 
 1. <span class="text-color">**Handling Missing Data:**</span> Identify and address missing values in the dataset, ensuring data integrity.
 
